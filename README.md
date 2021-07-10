@@ -1,0 +1,1 @@
+# gh-packages-mvn-playground
